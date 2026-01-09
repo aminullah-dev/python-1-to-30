@@ -1,0 +1,5 @@
+Day 6:
+- I used input
+- User controlled the program
+
+Don!!.
