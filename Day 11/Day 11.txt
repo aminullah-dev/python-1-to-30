@@ -1,0 +1,7 @@
+Day 11:
+- I looped through a list
+- I calculated the total
+
+
+
+Don!!.

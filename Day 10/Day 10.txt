@@ -1,6 +1,7 @@
-Day 9:
-- User controlled the total
-- I calculated income
+Day 10:
+- I used a list
+- I stored numbers together
+
 
 
 Don!!.
