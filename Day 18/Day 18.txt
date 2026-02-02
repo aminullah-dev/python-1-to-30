@@ -1,0 +1,7 @@
+Day 18:
+- I calculated average using for loop
+- I used total and count
+- I handled empty data
+
+
+Don!!.

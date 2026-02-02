@@ -1,0 +1,7 @@
+Day 17:
+- I used for loop with a list
+- I filtered values using if
+- I calculated total and count
+
+
+Don!!.

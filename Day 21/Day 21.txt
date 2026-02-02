@@ -1,0 +1,9 @@
+Day 21 – List of Dictionaries
+
+Today I learned:
+- A list can contain dictionaries
+- Each dictionary is one record (user)
+- I can loop and filter records
+
+Mini project: Find Admin Users
+Status: Done

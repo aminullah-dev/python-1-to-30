@@ -1,0 +1,11 @@
+Day 19 – Dictionary
+
+Today I learned:
+- What a dictionary is
+- How to use keys and values
+- How to loop through a dictionary
+
+Example:
+profile = { name, age, city }
+
+Status: Done

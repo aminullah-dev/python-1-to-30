@@ -1,0 +1,9 @@
+Day 20 – Dictionary Logic
+
+I learned:
+- How to check keys
+- How to update and delete values
+- How to use conditions with dictionary
+
+Mini project: User Checker
+Status: Done

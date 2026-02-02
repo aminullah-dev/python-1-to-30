@@ -1,0 +1,9 @@
+Day 22 – Search and Filter
+
+Today I learned:
+- How to search in list of dictionaries
+- How to use multiple conditions
+- How to handle not found cases
+
+Mini project: User Search Tool
+Status: Done
